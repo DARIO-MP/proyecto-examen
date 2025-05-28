@@ -1,0 +1,1 @@
+Este documento me sirve para Git GUI
